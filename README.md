@@ -13,7 +13,7 @@
 
 修改yanyuqinghe为登陆的密码
 
-# 注意需要实现启动serviceComb服务才能使用
+# 注意需要首先启动serviceComb服务才能使用
 
 # 启动成功后，访问RESTful地址为：**localhost:9080/huaweicloud/user**
 看页面是否返回插入数据库中的user_name字段信息
